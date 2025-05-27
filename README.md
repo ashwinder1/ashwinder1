@@ -75,13 +75,6 @@ I once built a chatbot to help project managers assign tasks using natural langu
 
 ---
 
-## 📈 GitHub Stats
-
-![Ashwinder's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ashwindersingh90&show_icons=true&theme=github_dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ashwindersingh90&layout=compact&theme=github_dark)
-
----
-
 ## 📫 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashwindersingh90/)

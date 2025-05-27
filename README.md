@@ -4,14 +4,14 @@
 
 I'm a **Software Engineer** with a passion for building **backend systems**, **API design** and integrating **AI/ML** into real-world systems. I enjoy working at the intersection of software engineering and data science — solving practical problems with clean, scalable code.
 
-- 🧠 Currently building **scalable Python-based backends** and integrating **AI/ML** in production-ready systems.
-- 📊 Published researcher in machine learning ([Springer Journal](https://link.springer.com/article/10.1007/s12539-019-00345-8)) with experience in predictive analytics.
-- ☁️ **AWS Solutions Architect – Associate** Certified.
-- 🔧 Actively learning and building in the **AI x Web** space using Python, LangChain, and cloud-native tools.
+- Currently building **scalable Python-based backends** and integrating **AI/ML** in production-ready systems.
+- Published researcher in machine learning ([Springer Journal](https://link.springer.com/article/10.1007/s12539-019-00345-8)) with experience in predictive analytics.
+- **AWS Solutions Architect – Associate** Certified.
+- Actively learning and building in the **AI x Web** space using Python, LangChain, and cloud-native tools.
 
 ---
 
-## 🧰 Tech Stack
+### Tech Stack
 
 * Languages: Python, Java, JavaScript
 * Frameworks: Django, Flask, Django REST Framework (DRF)
@@ -23,35 +23,35 @@ I'm a **Software Engineer** with a passion for building **backend systems**, **A
 
 ---
 
-🚀 Languages and Tools
+### Languages and Tools
 <p align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="40" alt="Python"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" width="40" alt="Java"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="40" alt="JavaScript"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" width="40" alt="Django"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" width="40" alt="Flask"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="40" alt="HTML5"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="40" alt="CSS3"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" width="40" alt="Bootstrap"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" width="40" alt="PostgreSQL"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" width="40" alt="MySQL"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="40" width="40" alt="Nginx"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="40" width="40" alt="AWS"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" width="40" alt="Git"/> </p>
 
 ---
 
-## 🔍 Notable Projects
+## Notable Projects
 
-### 🏘️ Real Estate Appraiser
+### Real Estate Appraiser
 Platform connecting property owners and appraisers (like Upwork for appraisals). Built with Django, PostgreSQL, Docker, and ElasticSearch for observability.  
 **Keywords:** Onion Architecture, Microservices, RabbitMQ, CI/CD
 
-### 💻 PySpark Online Editor
+### PySpark Online Editor
 Real-time coding platform with optimized PySpark backend and Flask APIs. Containerized for AWS EC2, reducing latency by 30%.  
 **Keywords:** Flask, PySpark, EC2, REST APIs
 
-### 🗃️ Complaint & Document Tracking System
+### Complaint & Document Tracking System
 Developed for UCO Bank to track complaints and documents efficiently. Built with Django, Node.js, and deployed on AWS EC2.  
 **Keywords:** Django, Node.js, REST APIs, EC2, 40% process improvement
 
-### 🩺 Cancer Prediction Model (https://link.springer.com/article/10.1007/s12539-019-00345-8)
+### Cancer Prediction Model (https://link.springer.com/article/10.1007/s12539-019-00345-8)
 ML model for Kidney Renal Cell Carcinoma survival prediction using R and Python. Published in peer-reviewed journal.  
 **Keywords:** R, Scikit-learn, Genomic Data Analysis
 
 ---
 
-## 📜 Certifications
+## Certifications
 
-- 🎓 [AWS Certified Solutions Architect – Associate](https://www.credly.com/badges/eb2af13c-c862-4933-931e-ed801035e8c8/linked_in_profile)
-- 📘 [Meta Full-Stack Development Certification](https://www.coursera.org/account/accomplishments/verify/Q3M6GZGTP8IL)
+- [AWS Certified Solutions Architect – Associate](https://www.credly.com/badges/eb2af13c-c862-4933-931e-ed801035e8c8/linked_in_profile)
+- [Meta Full-Stack Development Certification](https://www.coursera.org/account/accomplishments/verify/Q3M6GZGTP8IL)
 
 ---
 

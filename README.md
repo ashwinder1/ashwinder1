@@ -30,11 +30,11 @@ I'm a **Software Engineer** with a passion for building **backend systems**, **A
 
 ## 🔍 Notable Projects
 
-### 🏘️ [Real Estate Appraiser]
+### 🏘️ Real Estate Appraiser
 Platform connecting property owners and appraisers (like Upwork for appraisals). Built with Django, PostgreSQL, Docker, and ElasticSearch for observability.  
 **Keywords:** Onion Architecture, Microservices, RabbitMQ, CI/CD
 
-### 💻 [PySpark Online Editor]
+### 💻 PySpark Online Editor
 Real-time coding platform with optimized PySpark backend and Flask APIs. Containerized for AWS EC2, reducing latency by 30%.  
 **Keywords:** Flask, PySpark, EC2, REST APIs
 
@@ -42,7 +42,7 @@ Real-time coding platform with optimized PySpark backend and Flask APIs. Contain
 Developed for UCO Bank to track complaints and documents efficiently. Built with Django, Node.js, and deployed on AWS EC2.  
 **Keywords:** Django, Node.js, REST APIs, EC2, 40% process improvement
 
-### 🩺 [Cancer Prediction Model](https://link.springer.com/article/10.1007/s12539-019-00345-8)
+### 🩺 Cancer Prediction Model (https://link.springer.com/article/10.1007/s12539-019-00345-8)
 ML model for Kidney Renal Cell Carcinoma survival prediction using R and Python. Published in peer-reviewed journal.  
 **Keywords:** R, Scikit-learn, Genomic Data Analysis
 

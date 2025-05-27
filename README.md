@@ -14,9 +14,9 @@ I'm a **Software Engineer** with a passion for building **backend systems**, **A
 ### Tech Stack
 
 * Languages: Python, Java, JavaScript
-* Frameworks: Django, Flask, Django REST Framework (DRF)
+* Frameworks: Django, Spring, Flask, Django REST Framework (DRF), Nodejs, Bootstrap
 * Databases: PostgreSQL, MySQL, MongoDB
-* Frontend: HTML, CSS, JavaScript, Angular (Basic), Vue.js
+* Frontend: HTML, CSS, JavaScript, React (Basic)
 * Others: JSON, XML, Redis, Docker, SQLAlchemy, Web Scraping, GitHub, Jira, Slack
 * Libraries: NumPy, Pandas, Matplotlib, BeautifulSoup
 * Cloud & DevOps: AWS (Lambda, EC2, S3), Jenkins, CI/CD pipelines
@@ -36,10 +36,13 @@ I'm a **Software Engineer** with a passion for building **backend systems**, **A
 
   <!-- Frameworks -->
   <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" width="40" alt="Django"/> 
   </a> 
+  <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="spring boot" width="40" height="40"/>
+  </a>
   <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" width="40" alt="Flask"/>
   </a>
 
   <!-- Frontend -->
@@ -52,9 +55,6 @@ I'm a **Software Engineer** with a passion for building **backend systems**, **A
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
   </a> 
-  <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> 
-  </a>
 
   <!-- Databases -->
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
@@ -68,7 +68,9 @@ I'm a **Software Engineer** with a passion for building **backend systems**, **A
   </a>
 
   <!-- DevOps & Tools -->
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> 
+  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> 
+  </a> 
   <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> 
   </a>

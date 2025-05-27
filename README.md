@@ -13,13 +13,13 @@ I'm a **Software Engineer** with a passion for building **backend systems**, **A
 
 ## 🧰 Tech Stack
 
-Languages: Python, Java, JavaScript
-Frameworks: Django, Flask, Django REST Framework (DRF)
-Databases: PostgreSQL, MySQL, MongoDB
-Frontend: HTML, CSS, JavaScript, Angular (Basic), Vue.js
-Others: JSON, XML, Redis, Docker, SQLAlchemy, Web Scraping, GitHub, Jira, Slack
-Libraries: NumPy, Pandas, Matplotlib, BeautifulSoup
-Cloud & DevOps: AWS (Lambda, EC2, S3), Jenkins, CI/CD pipelines
+* Languages: Python, Java, JavaScript
+* Frameworks: Django, Flask, Django REST Framework (DRF)
+* Databases: PostgreSQL, MySQL, MongoDB
+* Frontend: HTML, CSS, JavaScript, Angular (Basic), Vue.js
+* Others: JSON, XML, Redis, Docker, SQLAlchemy, Web Scraping, GitHub, Jira, Slack
+* Libraries: NumPy, Pandas, Matplotlib, BeautifulSoup
+* Cloud & DevOps: AWS (Lambda, EC2, S3), Jenkins, CI/CD pipelines
 
 ---
 

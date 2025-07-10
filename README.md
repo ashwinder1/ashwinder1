@@ -4,7 +4,7 @@
 
 I'm a **Software Engineer** with a passion for building **backend systems**, **API design** and integrating **AI/ML** into real-world systems. I enjoy working at the intersection of software engineering and data science — solving practical problems with clean, scalable code.
 
-- Currently building **scalable Python-based backends** and integrating **AI/ML** in production-ready systems.
+- Currently building **scalable backends** and integrating **AI/ML** in production-ready systems.
 - Published researcher in machine learning ([Springer Journal](https://link.springer.com/article/10.1007/s12539-019-00345-8)) with experience in predictive analytics.
 - **AWS Solutions Architect – Associate** Certified.
 - Actively learning and building in the **AI x Web** space using Python, LangChain, and cloud-native tools.

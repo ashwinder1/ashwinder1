@@ -14,7 +14,7 @@ I'm a **Software Engineer** with a passion for building **backend systems**, **A
 ### Tech Stack
 
 * Languages: Python, Java, JavaScript
-* Frameworks: Django, Spring, Flask, Django REST Framework (DRF), Nodejs, Bootstrap
+* Frameworks: Spring Boot, FastApi, React, Django REST Framework (DRF), Nodejs, Bootstrap
 * Databases: PostgreSQL, MySQL, MongoDB
 * Frontend: HTML, CSS, JavaScript, React (Basic)
 * Others: JSON, XML, Redis, Docker, SQLAlchemy, Web Scraping, GitHub, Jira, Slack

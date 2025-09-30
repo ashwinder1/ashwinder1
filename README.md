@@ -7,7 +7,7 @@ I'm a **Software Engineer** with a passion for building **backend systems**, **A
 - Currently building **scalable backends** and integrating **AI/ML** in production-ready systems.
 - Published researcher in machine learning ([Springer Journal](https://link.springer.com/article/10.1007/s12539-019-00345-8)) with experience in predictive analytics.
 - **AWS Solutions Architect – Associate** Certified.
-- Actively learning and building in the **AI x Web** space using Python, LangChain, and cloud-native tools.
+- Actively learning and building in the **AI x Web** space using Python, Java, ML models, System Design and cloud-native tools.
 
 ---
 
@@ -16,9 +16,10 @@ I'm a **Software Engineer** with a passion for building **backend systems**, **A
 * Languages: Python, Java, JavaScript
 * Frameworks: Spring Boot, FastApi, React, Django REST Framework (DRF), Nodejs, Bootstrap
 * Databases: PostgreSQL, MySQL, MongoDB
-* Frontend: HTML, CSS, JavaScript, React (Basic)
-* Others: JSON, XML, Redis, Docker, SQLAlchemy, Web Scraping, GitHub, Jira, Slack
-* Libraries: NumPy, Pandas, Matplotlib, BeautifulSoup
+* Frontend: HTML, CSS, JavaScript, React
+* Others: JSON, XML, Web Scraping, GitHub, Jira, Slack
+* Tools: Maven, Pip, Conda, Redis, Docker, SQLAlchemy, JPA
+* ML Libraries: NumPy, Pandas, Matplotlib, scikit-learn
 * Cloud & DevOps: AWS (Lambda, EC2, S3), Jenkins, CI/CD pipelines
 
 ---
